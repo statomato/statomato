@@ -1,4 +1,20 @@
-### Hi there 👋
+## I'm EunJin, Lee. ✨
+###### statomato = stat + tomato 🍅
+
+### Data Analyst
+- Master of Science in Statisics.
+- Won 3 Big Data Contest Awards.
+
+### Interest
+- Statistics, Machine Learning
+- Data Visualization
+- Real-Time Data (eg. Card, Web log ...)
+
+### Strength
+- 🦸‍♀️ Fresh Ideas
+- 🏃‍♀️ Make Steady Efforts
+- 👌   Good Listener
+
 
 <!--
 **statomato/statomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
