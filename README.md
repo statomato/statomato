@@ -13,7 +13,7 @@
 ### Strength
 - 🦸‍♀️ Fresh Ideas
 - 🏃‍♀️ Make Steady Efforts
-- 👌   Good Listener
+
 
 
 <!--
