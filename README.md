@@ -14,7 +14,7 @@
 - 🦸‍♀️ Fresh Ideas
 - 🏃‍♀️ Make Steady Efforts
 
-#### [MY Blog](https://blog.naver.com/stat-)
+#### [My Blog](https://blog.naver.com/stat-)
 
 
 <!--
